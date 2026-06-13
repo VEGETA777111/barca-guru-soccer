@@ -1,3 +1,4 @@
+const keep_alive = require(`./keep_alive.js`);
 /**
  * ╔══════════════════════════════════════════════╗
  * ║      RB3 Security & Soccer Guru Bot v2.0     ║
